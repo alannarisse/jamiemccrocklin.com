@@ -1,3 +1,2 @@
 <?php
-
-echo shell_exec("./deploy.sh");
+echo shell_exec("git pull");
